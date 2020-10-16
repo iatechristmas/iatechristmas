@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Matthew Molloy](https://scorpius.me/), a Full Stack Developer 🚀, currently, I'm a student 🙍🏽‍♂️ [@LambdaSchool](https://lambdaschool.com/).
+Hi, I'm [Matthew Molloy](https://scorpius.me/), a Full Stack Developer. Currently, I'm a student 🙍🏽‍♂️ [@LambdaSchool](https://lambdaschool.com/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
