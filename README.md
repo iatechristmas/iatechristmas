@@ -51,19 +51,9 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  5,434 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 32 tasks this week           
-✅  Completed 363 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iatechristmas&show_icons=true&theme=gotham" alt="iatechristmas" />
 
 </details>
